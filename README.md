@@ -1,34 +1,33 @@
-# 421_521_final_project
-# **Rice Bioe 421/521 Final  Project**
+# Rice BIOE 421 Final Project
 *Niki and Jess build super cool cold brew coffee inverter* 
 
 ## Milestones 
-Thursday, October 27th: 
+*Thursday, October 27th:* 
 - Parts ordered
 - Begin prototyping
 
-Thursday, November 3rd: 
+*Thursday, November 3rd:* 
 - Abstract
 - Physical frame built
 
-Tuesday, November 8th: 
+*Tuesday, November 8th:* 
 - Shaking function integrated
 
-Thursday, November 10th: 
+*Thursday, November 10th:* 
 - User input/touchscreen integrated
 - Write up of user preferences and recommendations in code completed
 - Prototype of final project due and demonstrated to instructor
 
-Thursday, November 17th:
+*Thursday, November 17th:*
 - Fit and finish: working through use cases, graceful error handling
 - Drink lots of coffee
 
-Thursday, November 24th:
+*Thursday, November 24th:*
 
-Tuesday, November 29th: 
+*Tuesday, November 29th:* 
 - Submit all code
 
-Thursday, December 1st: 
+*Thursday, December 1st:* 
 - Presentation
 
 ## Abstract
